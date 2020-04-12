@@ -1,0 +1,29 @@
+table tr td {
+    width: 75px;
+    height: 75px;
+    border: 5px solid blue;
+    border-radius: 60px;
+    background-color: white;
+    
+}
+table{
+    background-color: blue;
+}
+
+.player1{
+    width: 75px;
+    height: 75px;
+    border: 5px solid blue;
+    border-radius: 60px;
+    background-color:yellow;
+   
+}
+
+.player2{
+    width: 75px;
+    height: 75px;
+    border: 5px solid blue;
+    border-radius: 60px;
+    background-color: red;
+   
+}
