@@ -2,8 +2,6 @@
 ## 👋 &nbsp;Hey there! I'm Godwin Kvg
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at ENSAH (Morroco) .\
 ✍️ &nbsp;In my free time, I pursue Freelancing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
@@ -28,8 +26,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hackerman001&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+<a href="https://github.com/hackerman001"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hackerman001&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hackerman001&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
@@ -37,8 +34,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.godwinkvg.netlify.com"><img src="https://img.shields.io/badge/-GodwinKvg.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kodjo-godwin-leger-kavege-8a5b82159/"><img src="https://img.shields.io/badge/-Godwin%Kvg-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.godwinkvg.netlify.com"><img src="https://img.shields.io/badge/-godwinKvg.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-godwinKvg-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:godwinkvg@gmail.com"><img src="https://img.shields.io/badge/-@godwinkvg-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/godwin_kvg"><img src="https://img.shields.io/badge/-@godwin_kvg-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/godwin.kavege.7/"><img src="https://img.shields.io/badge/-@godwin_kvg-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
