@@ -7,8 +7,8 @@
 🎓 &nbsp;I'm currently studying Computer Science at ENSAH (Morroco) .\
 ✍️ &nbsp;In my free time, I pursue Freelancing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at godwinkvg@æmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.godwinkavege.netlify.com/) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at godwinkvg@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.godwinkvg.netlify.com/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -37,10 +37,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:godwinkvg@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/godwin_kvg"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/godwin.kavege.7/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.godwinkvg.netlify.com"><img src="https://img.shields.io/badge/-GodwinKvg.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kodjo-godwin-leger-kavege-8a5b82159/"><img src="https://img.shields.io/badge/-Godwin%Kvg-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:godwinkvg@gmail.com"><img src="https://img.shields.io/badge/-@godwinkvg-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/godwin_kvg"><img src="https://img.shields.io/badge/-@godwin_kvg-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/godwin.kavege.7/"><img src="https://img.shields.io/badge/-@godwin_kvg-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
 
